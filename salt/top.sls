@@ -3,3 +3,4 @@ core-packages:
 		- pkgs:
 			- htop
 			- mlocate
+			- git
