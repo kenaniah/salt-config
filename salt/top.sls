@@ -1,6 +1,6 @@
 core-packages:
-	pkg.installed:
-		- pkgs:
-			- htop
-			- mlocate
-			- git
+  pkg.installed:
+    - pkgs:
+    - htop
+    - mlocate
+    - git
