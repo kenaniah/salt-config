@@ -8,6 +8,7 @@ core:
       - nc
       - sysstat
       - chkconfig
+      - yum-utils
   service.dead:
     - names:
       - iptables
