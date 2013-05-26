@@ -8,3 +8,8 @@ core:
       - nc
       - sysstat
       - chkconfig
+  service.dead:
+    - names:
+      - iptables
+      - ip6tables
+    - enable: False
