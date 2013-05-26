@@ -4,3 +4,7 @@ core:
       - htop
       - mlocate
       - git
+      - man
+      - nc
+      - sysstat
+      - chkconfig
