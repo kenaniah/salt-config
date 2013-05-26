@@ -13,3 +13,8 @@ core:
       - iptables
       - ip6tables
     - enable: False
+
+yum update -y:
+  cron.present:
+    - hour: 1
+    - minute: 0
