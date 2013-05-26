@@ -3,6 +3,7 @@ webserver:
     - pkgs:
       - httpd
       - git
+      - mod_ssl
 
 httpd:
   service:
