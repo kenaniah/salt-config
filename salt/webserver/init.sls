@@ -7,7 +7,5 @@ webserver:
 
 httpd:
   service:
-    - running
-  service:
     - enabled
 
